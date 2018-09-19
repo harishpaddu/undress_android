@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "586047952851",
+    "firebase_url": "https://undress-48d1f.firebaseio.com",
+    "project_id": "undress-48d1f",
+    "storage_bucket": "undress-48d1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586047952851:android:7dbac437029efd32",
+        "android_client_info": {
+          "package_name": "io.falabs.undress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586047952851-e8gl0oqqaus5378u4ulutqs5bnkh7486.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFPAhP-vlB3ArSSU-lkDUXh543apz4Qmk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
